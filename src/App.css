@@ -1,0 +1,14 @@
+
+
+.linha{
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-around;
+}
+
+
+.App {
+  margin: auto;
+  text-align: center;
+  max-width: 900px;
+}
