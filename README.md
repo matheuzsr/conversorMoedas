@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `Se não funcionar digite antes yarn`
+### `Se não funcionar execute antes yarn`
 
 ### `yarn start`
 
